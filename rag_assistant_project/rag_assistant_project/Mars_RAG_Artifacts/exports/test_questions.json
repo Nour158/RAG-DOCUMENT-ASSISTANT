@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How long is a day on Mars?",
+    "expected_document": "mars_facts"
+  },
+  {
+    "question": "Why does Mars look red?",
+    "expected_document": "mars_facts"
+  },
+  {
+    "question": "What evidence suggests Mars had water in the past?",
+    "expected_document": "mars_facts"
+  },
+  {
+    "question": "What is Perseverance searching for on Mars?",
+    "expected_document": "perseverance"
+  },
+  {
+    "question": "Why is Jezero Crater scientifically important to Perseverance?",
+    "expected_document": "perseverance_science"
+  },
+  {
+    "question": "What was the main objective of the Curiosity rover?",
+    "expected_document": "curiosity"
+  },
+  {
+    "question": "What is Curiosity investigating at Gale Crater?",
+    "expected_document": "curiosity_science"
+  },
+  {
+    "question": "What part of Mars did InSight study?",
+    "expected_document": "insight"
+  },
+  {
+    "question": "What did InSight learn using seismic measurements?",
+    "expected_document": "insight_science"
+  },
+  {
+    "question": "What historic achievement did the Ingenuity helicopter demonstrate?",
+    "expected_document": "ingenuity"
+  }
+]

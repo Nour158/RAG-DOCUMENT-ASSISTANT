@@ -1,0 +1,10 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size_words": 220,
+  "chunk_overlap_words": 40,
+  "vector_store": "FAISS IndexFlatIP",
+  "number_of_documents": 8,
+  "number_of_chunks": 45,
+  "embedding_dimension": 384,
+  "ollama_model": "llama3.2:3b"
+}

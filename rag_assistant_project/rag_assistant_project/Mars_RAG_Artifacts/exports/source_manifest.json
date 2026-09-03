@@ -1,0 +1,10 @@
+{
+  "mars_facts": "https://science.nasa.gov/mars/facts/",
+  "perseverance": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+  "perseverance_science": "https://science.nasa.gov/mission/mars-2020-perseverance/science/",
+  "curiosity": "https://science.nasa.gov/mission/msl-curiosity/",
+  "curiosity_science": "https://science.nasa.gov/mission/msl-curiosity/science/",
+  "insight": "https://science.nasa.gov/mission/insight/",
+  "insight_science": "https://science.nasa.gov/mission/insight/science/",
+  "ingenuity": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/"
+}

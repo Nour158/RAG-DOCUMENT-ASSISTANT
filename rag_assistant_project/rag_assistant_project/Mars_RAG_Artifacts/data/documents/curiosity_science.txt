@@ -1,0 +1,70 @@
+TITLE: Curiosity Science
+SOURCE_URL: https://science.nasa.gov/mission/msl-curiosity/science/
+
+Curiosity Navigation
+Mars Science Laboratory: Curiosity Rover
+Science
+Curiosity's scientific tools found chemical and mineral evidence of past habitable environments on Mars. It continues to explore the rock record from a time when Mars could have been home to microbial life.
+Overview
+Objectives
+Science Highlights
+Science Instruments
+Overview
+Landing at Gale Crater, Mars Science Laboratory is assessing whether Mars ever had an environment capable of supporting microbial life. Determining past habitability on Mars gives NASA and the scientific community a better understanding of whether life could have existed on the Red Planet and, if it could have existed, an idea of where to look for it in the future.
+NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas of this scene at two times of day. Blue, orange, and green colors were added to a combination of both panoramas for an artistic interpretation of the scene.
+NASA/JPL-Caltech
+Objectives
+To contribute to the four
+Mars exploration science goals
+and meet its specific goal of determining Mars' habitability, Curiosity has the following science objectives:
+Biological objectives
+Geological and geochemical objectives
+Planetary process objectives
+Surface radiation objective
+Biological objectives
+1. Determine the nature and inventory of organic carbon compounds
+2. Inventory the chemical building blocks of life (carbon, hydrogen, nitrogen, oxygen, phosphorous, and sulfur)
+3. Identify features that may represent the effects of biological processes
+Science Highlights
+NASA’s Curiosity Mars rover captured this image of rhythmic rock layers with a repetitive pattern in their spacing and thickness.
+NASA/JPL-Caltech/MSSS
+Geological and geochemical objectives
+1. Investigate the chemical, isotopic, and mineralogical composition of the Martian surface and near-surface geological materials
+2. Interpret the processes that have formed and modified rocks and soils
+Science Highlights
+NASA’s Curiosity Mars rover has collected 36 powderized rock samples with the drill on the end of its robotic arm. This grid shows all 36 holes to date. The images in the grid were captured by the Mars Hand Lens Imager (MAHLI) on the end of Curiosity’s arm.
+NASA/JPL-Caltech/MSSS
+Planetary process objectives
+1. Assess long-timescale (i.e., 4-billion-year) atmospheric evolution processes
+2. Determine present state, distribution, and cycling of water and carbon dioxide
+Science Highlights
+NASA's Curiosity Mars rover captured a partial image of a geologic feature called "Greenheugh Pediment." In the foreground is the crusty sandstone cap that stretches the length of the pediment, forming an overhanging ledge in some parts. At center is the "clay-bearing unit," a region with a unique story to tell about the history of water on Mount Sharp, the 3-mile-tall (5-kilometer-tall) mountain Curiosity has been ascending since 2014.
+NASA/JPL-Caltech/MSSS
+Surface radiation objective
+Characterize the broad spectrum of surface radiation, including galactic cosmic radiation, solar proton events, and secondary neutrons
+Science Highlights
+The Radiation Assessment Detector (RAD) is helping prepare for future human exploration of Mars. RAD measures the type and amount of harmful radiation that reaches the Martian surface from the sun and space sources.
+NASA/JPL-Caltech/SwRI
+Science Highlights
+With over a decade of exploration, Curiosity has unveiled the keys to some of science's most unanswered questions about Mars. Did Mars ever have the right environmental conditions to support small life forms called microbes? Early in its mission, Curiosity's scientific tools found chemical and mineral evidence of past habitable environments on Mars. It continues to explore the rock record from a time when Mars could have been home to microbial life.
+Learn More
+To view this video please enable JavaScript, and consider upgrading to a web browser that
+supports HTML5 video
+Science Instruments
+From cameras to environmental and atmospheric sensors, the Curiosity rover has a suite of state-of-the-art science instruments to achieve its goals.
+Learn More
+about Science Instruments
+Featured Story
+Marking 13 Years on Mars, NASA’s Curiosity Picks Up New Skills
+New capabilities allow the rover to do science with less energy from its batteries. Thirteen years since Curiosity landed on…
+Read the Story
+Keep Exploring
+Discover More Topics From NASA
+James Webb Space Telescope
+Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…
+Perseverance Rover
+This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…
+Parker Solar Probe
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona…
+Juno
+NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet's dense clouds to…
